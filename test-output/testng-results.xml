@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="5" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-08T19:39:33 EET" name="Suite" finished-at="2022-03-08T19:39:53 EET" duration-ms="20137">
+    <groups>
+    </groups>
+    <test started-at="2022-03-08T19:39:33 EET" name="Test" finished-at="2022-03-08T19:39:53 EET" duration-ms="20137">
+      <class name="Tests.BuyMacBook_Test">
+        <test-method signature="userBuy_MacBook()[pri:0, instance:Tests.BuyMacBook_Test@957e06]" started-at="2022-03-08T19:39:45 EET" name="userBuy_MacBook" finished-at="2022-03-08T19:39:51 EET" duration-ms="5300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userBuy_MacBook -->
+      </class> <!-- Tests.BuyMacBook_Test -->
+      <class name="Tests.Registeration_Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.Registeration_Test@4803b726]" started-at="2022-03-08T19:39:33 EET" name="setUp" finished-at="2022-03-08T19:39:39 EET" duration-ms="6543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="user_Registeration()[pri:0, instance:Tests.Registeration_Test@4803b726]" started-at="2022-03-08T19:39:39 EET" name="user_Registeration" finished-at="2022-03-08T19:39:45 EET" duration-ms="5970" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_Registeration -->
+      </class> <!-- Tests.Registeration_Test -->
+      <class name="Tests.BuyIphone_test">
+        <test-method signature="Buy_Iphone()[pri:0, instance:Tests.BuyIphone_test@32502377]" started-at="2022-03-08T19:39:51 EET" name="Buy_Iphone" finished-at="2022-03-08T19:39:53 EET" duration-ms="2279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Buy_Iphone -->
+      </class> <!-- Tests.BuyIphone_test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
